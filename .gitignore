@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 DS_3001-002_Project-Idea.pptx
 main_notebook testing ignore.ipynb
+class_notebook_template.ipynb
