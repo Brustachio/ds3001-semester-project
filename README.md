@@ -14,7 +14,6 @@ Fork this repository once for your team and use the fork as the single record of
 .
 ├── README.md
 ├── main_notebook.ipynb
-├── DS_3001-002_Project-Idea.pptx
 ├── final_report.docx
 └── data/
     ├── Crime_Incidents_in_2024.csv
